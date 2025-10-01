@@ -34,7 +34,7 @@ colorscheme emacs
 
 ## Screenshot
 
-![Screenshot of the theme in action](https://raw.githubusercontent.com/kaloyanm/emacs-to-vim-theme/main/screenshot.png)
+![Screenshot of the theme in action](https://raw.githubusercontent.com/kaloyanm/emacs-to-vim-theme/main/screenshots/code-python.png)
 
 ## License
 
