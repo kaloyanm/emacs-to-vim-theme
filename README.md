@@ -9,19 +9,19 @@ You can install this theme using your favorite Vim plugin manager.
 ### vim-plug
 
 ```vim
-Plug 'your-username/emacs-to-vim-theme'
+Plug 'kaloyanm/emacs-to-vim-theme'
 ```
 
 ### Vundle
 
 ```vim
-Plugin 'your-username/emacs-to-vim-theme'
+Plugin 'kaloyanm/emacs-to-vim-theme'
 ```
 
 ### Pathogen
 
 ```
-git clone https://github.com/your-username/emacs-to-vim-theme.git ~/.vim/bundle/emacs-to-vim-theme
+git clone https://github.com/kaloyanm/emacs-to-vim-theme.git ~/.vim/bundle/emacs-to-vim-theme
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ colorscheme emacs
 
 ## Screenshot
 
-![Screenshot of the theme in action](https://raw.githubusercontent.com/your-username/emacs-to-vim-theme/main/screenshot.png)
+![Screenshot of the theme in action](https://raw.githubusercontent.com/kaloyanm/emacs-to-vim-theme/main/screenshot.png)
 
 ## License
 
